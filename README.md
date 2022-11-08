@@ -60,10 +60,6 @@
 
 
 
-
-<h2> About Me</h2>
-
-
 <!-- BLOG-POST-LIST:END -->
 
 
