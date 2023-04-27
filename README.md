@@ -47,10 +47,12 @@
   
 
 ## My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+
+<a href="https://github.com/dimingo/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dimingo&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/dimingo/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimingo" />
 </a>
 
