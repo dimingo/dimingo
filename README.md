@@ -4,9 +4,6 @@
 <p align="center"><img src="https://github.com/dimingo/dimingo/blob/main/animation.gif" width="35%"></p>
 
 
-  
-
-
 <h2><p align="center">  ⚡ Technologies  </p> </h2>
 
   <p><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=vue&logoColor=white" />
@@ -43,7 +40,24 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+<table>
+  <tr>
+    <td>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=dimingo&show_icons=true&theme=transparent" />
+    </td>
+    <td>
+      <p align="center" ><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimingo&theme=transparent&layout=compact" /> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <img class="img" src="https://leetcard.jacoblin.cool/dimingo?font=Dancing_Script" />
+    </td>
+    <td>
+       <img class="img" src="https://streak-stats.demolab.com?user=dimingo&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 # MITCHEL KETCHA
               Software Engineer
@@ -98,7 +112,7 @@ As an experienced software engineer, I thrive on crafting ingenious and scalable
 **Testing and Debugging:** Pest, Php Unit, Enzyme,Postman, Cypress
 **DevOps:** Docker,  
 **Cloud Services:** AWS
-  
+
 
 
 <!--START_SECTION:activity-->
