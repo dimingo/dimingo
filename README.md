@@ -48,7 +48,7 @@
 # MITCHEL KETCHA
               Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/mitchel-ketcha) | [GitHub](https://github.com/dimingo) | [Email](mitchelketcha@gmail.com) | (254) 707519043
+[LinkedIn](https://www.linkedin.com/in/mitchel-ketcha) | [GitHub](https://github.com/dimingo) | [Email](mitchelketcha@gmail.com) | (254)----
 
 ---
 
