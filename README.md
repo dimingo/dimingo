@@ -44,6 +44,60 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+
+# MITCHEL KETCHA
+              Software Engineer
+
+[LinkedIn](https://www.linkedin.com/in/mitchel-ketcha) | [GitHub](https://github.com/dimingo) | [Email](mitchelketcha@gmail.com) | (254) 707519043
+
+---
+
+## Summary
+As an experienced software engineer, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing JavaScript, PHP, and Go. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
+
+---
+
+## Education
+### Bachelor of Science in Software Development
+**KCA University**
+*Graduated: December 2022*
+
+---
+
+## Work Experience
+
+### Mid Level Software Developer
+**Software Technologies  ltd.**
+*Jan2022 - Present*
+
+- Led a cross-functional team of developers in the design and implementation of a mission-critical web application, resulting in a 30% increase in user engagement.
+- Collaborated with product managers to define technical requirements and deliverables, ensuring alignment with business goals.
+- Implemented continuous integration and deployment (CI/CD) pipelines, reducing release times by 50%.
+- Mentored junior engineers, fostering skill development and knowledge sharing within
+
+### Projects
+**Contract Lifecycle Management Web App**
+*Software Technologies Limited*
+- Orchestrated the development of Mkataba, a Contract Lifecycle Management System, utilizing PHP, Vue.js, Laravel, and REST APIs. 
+- Streamlined contract creation with an efficient Vue.js frontend, resulting in a 75% time reduction. 
+- Ensured data accuracy and integration through the Laravel backend and RESTful APIs.
+- Enhanced efficiency by 30% through advanced features like digital signatures, automated alerts, and reporting. 
+- Successfully deployed Mkataba via CI/CD pipelines for seamless updates and releases.
+
+**Wasilisha: Water Ordering and Delivery App**
+  *MsimboIT* 
+   - Contributed to the Laravel admin backend, streamlining order management and ensuring efficient system administration.
+   - Developed user-friendly mobile and web interfaces using Flutter, ensuring a seamless experience across platforms.
+   - Successfully integrated local M-Pesa payments, simplifying transactions and enhancing user convenience. 
+## Skills  
+**Programming Languages:** JavaScript, PHP, Go
+**Front-End Development:** Vue, HTML, CSS, tailwind, alpine
+**Back-End Development:** Node.js, Express, Django 
+**Database Management:**  MySQL 
+**Version Control:** Git, GitHub, Gitlab
+**Testing and Debugging:** Pest, Php Unit, Enzyme,Postman, Cypress
+**DevOps:** Docker,  
+**Cloud Services:** AWS
   
 
 
