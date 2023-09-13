@@ -74,7 +74,7 @@ As an experienced software engineer 💻, I thrive on crafting ingenious and sca
 ## Work Experience
 
 ### Mid Level Software Developer
-- **Software Technologies  ltd.** 🏢
+ **Software Technologies  ltd.** 🏢
   
 - 👨‍🏫 Led a cross-functional team of developers in the design and implementation of a mission-critical web application, resulting in a 30% increase in user engagement.
 - ⚔️ Collaborated with product managers to define technical requirements and deliverables, ensuring alignment with business goals.
