@@ -16,30 +16,6 @@ jobs:
         with:
           #GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.dimingo }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: dimingo/dimingo # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: php # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          ### commit
-          SHOW_COMMIT: "True"
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: dimingo@github.com # optional
-          AUTHOR_NAME: dimingo # optional
-          AUTHOR_EMAIL: micalvin98@gmail.com # optional
-          # you can populate email-id with secretes instead
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
