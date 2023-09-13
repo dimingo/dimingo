@@ -57,7 +57,14 @@
        <img class="img" src="https://streak-stats.demolab.com?user=dimingo&theme=dark" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+    </td>
+  </tr>
 </table>
+
 
 # MITCHEL KETCHA
               Software Engineer
