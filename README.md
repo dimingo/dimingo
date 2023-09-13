@@ -65,9 +65,9 @@ As an experienced software engineer 💻, I thrive on crafting ingenious and sca
 ---
 
 ## Education
-### Bachelor of Science in Software Development
+### Bachelor of Science in Software Development 🎓
 **KCA University** 🏫
-- :mortar_board: *Graduated: December 2022*
+
 
 ---
 
