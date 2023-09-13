@@ -59,30 +59,8 @@
   </tr>
 </table>
 
-<p class='center'>
-       <!--START_SECTION:waka-->
-
-```php
-From: 27 February 2023 - To: 12 September 2023
-
-Total Time: 835 hrs 58 mins
-
-PHP              406 hrs 42 mins >>>>>>>>>>>>-------------   48.58 %
-Vue.js           164 hrs 38 mins >>>>>--------------------   19.67 %
-Blade Template   161 hrs 9 mins  >>>>>--------------------   19.25 %
-JavaScript       26 hrs 54 mins  >------------------------   03.21 %
-HTML             21 hrs 11 mins  >------------------------   02.53 %
-Bash             8 hrs 14 mins   -------------------------   00.98 %
-CSS              6 hrs 24 mins   -------------------------   00.77 %
-C                6 hrs 6 mins    -------------------------   00.73 %
-JSON             5 hrs 4 mins    -------------------------   00.61 %
-Log              3 hrs 57 mins   -------------------------   00.47 %
-```
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-</p>
-
 
 # MITCHEL KETCHA
               Software Engineer
