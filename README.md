@@ -75,12 +75,11 @@ As an experienced software engineer 💻, I thrive on crafting ingenious and sca
 
 ### Mid Level Software Developer
 - **Software Technologies  ltd.** 🏢
-- *Jan2022 - Present*
-
-- Led a cross-functional team of developers in the design and implementation of a mission-critical web application, resulting in a 30% increase in user engagement.
-- Collaborated with product managers to define technical requirements and deliverables, ensuring alignment with business goals.
-- Implemented continuous integration and deployment (CI/CD) pipelines, reducing release times by 50%.
-- Mentored junior engineers, fostering skill development and knowledge sharing within
+  
+- 👨‍🏫 Led a cross-functional team of developers in the design and implementation of a mission-critical web application, resulting in a 30% increase in user engagement.
+- ⚔️ Collaborated with product managers to define technical requirements and deliverables, ensuring alignment with business goals.
+- 👷‍♂️ Implemented continuous integration and deployment (CI/CD) pipelines, reducing release times by 50%.
+- 👨‍🍼 Mentored junior engineers, fostering skill development and knowledge sharing within
 
 ### Projects
 **Contract Lifecycle Management Web App** 📁
