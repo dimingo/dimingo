@@ -57,9 +57,9 @@
        <img class="img" src="https://streak-stats.demolab.com?user=dimingo&theme=dark" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <!--START_SECTION:waka-->
+</table>
+<p class='center'>
+       <!--START_SECTION:waka-->
 
 ```php
 From: 27 February 2023 - To: 12 September 2023
@@ -79,9 +79,8 @@ Log              3 hrs 57 mins   -------------------------   00.47 %
 ```
 
 <!--END_SECTION:waka-->
-    </td>
-  </tr>
-</table>
+
+</p>
 
 
 # MITCHEL KETCHA
