@@ -1,4 +1,4 @@
-## Hi there!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 💻
+## Hi there!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
 
 <p align="center"><img src="https://github.com/dimingo/dimingo/blob/main/animation.gif" width="35%"></p>
@@ -52,7 +52,7 @@ Log              3 hrs 57 mins   -------------------------   00.47 %
 ---
 
 ## Summary
-As an experienced software engineer, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing JavaScript, PHP, and Go. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
+As an experienced software engineer 💻, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing JavaScript, PHP, and Go. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
 
 ---
 
