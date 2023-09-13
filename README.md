@@ -58,6 +58,9 @@
     </td>
   </tr>
 </table>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dimingo&compact=True"/>
+
 <p class='center'>
        <!--START_SECTION:waka-->
 
