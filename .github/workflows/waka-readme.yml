@@ -31,7 +31,7 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           ### commit
-          SHOW_COMMIT: true
+          SHOW_COMMIT: "True"
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
@@ -40,3 +40,11 @@ jobs:
           AUTHOR_NAME: dimingo # optional
           AUTHOR_EMAIL: micalvin98@gmail.com # optional
           # you can populate email-id with secretes instead
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "False"
