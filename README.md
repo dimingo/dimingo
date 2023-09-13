@@ -1,12 +1,7 @@
-## Hi there!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## Hi there!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 💻
 
 
 <p align="center"><img src="https://github.com/dimingo/dimingo/blob/main/animation.gif" width="35%"></p>
-
-
-<h2><p align="center">  ⚡ Technologies  </p> </h2>
-
- 
 
 <table>
   <tr>
@@ -51,7 +46,8 @@ Log              3 hrs 57 mins   -------------------------   00.47 %
 # MITCHEL KETCHA
               Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/mitchel-ketcha) | [GitHub](https://github.com/dimingo) | [Email](mitchelketcha@gmail.com) | (254)----
+
+[LinkedIn 💼](https://www.linkedin.com/in/mitchel-ketcha) | [Website 🌍](https://portfolio-ketcha-zi8x.vercel.app/) | [Email 📬](mailto:mitchelketcha@gmail.com)
 
 ---
 
