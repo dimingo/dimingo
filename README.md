@@ -52,7 +52,15 @@ Log              3 hrs 57 mins   -------------------------   00.47 %
 ---
 
 ## Summary
-As an experienced software engineer 💻, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing , PHP, and Go. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
+As an experienced software engineer 💻, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing ![Python](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
 
 ---
 
