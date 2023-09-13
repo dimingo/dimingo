@@ -94,16 +94,16 @@ As an experienced software engineer, I thrive on crafting ingenious and scalable
 
 ## Education
 ### Bachelor of Science in Software Development
-**KCA University**
-*Graduated: December 2022*
+**KCA University** 🏫
+- :mortar_board: *Graduated: December 2022*
 
 ---
 
 ## Work Experience
 
 ### Mid Level Software Developer
-**Software Technologies  ltd.**
-*Jan2022 - Present*
+- **Software Technologies  ltd.** 🏢
+- *Jan2022 - Present*
 
 - Led a cross-functional team of developers in the design and implementation of a mission-critical web application, resulting in a 30% increase in user engagement.
 - Collaborated with product managers to define technical requirements and deliverables, ensuring alignment with business goals.
@@ -111,19 +111,13 @@ As an experienced software engineer, I thrive on crafting ingenious and scalable
 - Mentored junior engineers, fostering skill development and knowledge sharing within
 
 ### Projects
-**Contract Lifecycle Management Web App**
-*Software Technologies Limited*
-- Orchestrated the development of Mkataba, a Contract Lifecycle Management System, utilizing PHP, Vue.js, Laravel, and REST APIs. 
-- Streamlined contract creation with an efficient Vue.js frontend, resulting in a 75% time reduction. 
-- Ensured data accuracy and integration through the Laravel backend and RESTful APIs.
-- Enhanced efficiency by 30% through advanced features like digital signatures, automated alerts, and reporting. 
-- Successfully deployed Mkataba via CI/CD pipelines for seamless updates and releases.
+**Contract Lifecycle Management Web App** 📁
+- *Software Technologies Limited*
 
-**Wasilisha: Water Ordering and Delivery App**
-  *MsimboIT* 
-   - Contributed to the Laravel admin backend, streamlining order management and ensuring efficient system administration.
-   - Developed user-friendly mobile and web interfaces using Flutter, ensuring a seamless experience across platforms.
-   - Successfully integrated local M-Pesa payments, simplifying transactions and enhancing user convenience. 
+
+**Wasilisha: Water Ordering and Delivery App** 🚰
+- *MsimboIT* 
+ 
 ## Skills  
 **Programming Languages:** JavaScript, PHP, Go
 **Front-End Development:** Vue, HTML, CSS, tailwind, alpine
