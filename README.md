@@ -52,7 +52,7 @@ Log              3 hrs 57 mins   -------------------------   00.47 %
 ---
 
 ## Summary
-As an experienced software engineer 💻, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing JavaScript, PHP, and Go. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
+As an experienced software engineer 💻, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing , PHP, and Go. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
 
 ---
 
@@ -94,6 +94,7 @@ As an experienced software engineer 💻, I thrive on crafting ingenious and sca
  <p><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=vue&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+   <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
