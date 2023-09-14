@@ -83,7 +83,7 @@ _Software Technologies  ltd._ 🏢
 
 ### Projects
 **Contract Lifecycle Management Web App** 📁
-*Software Technologies Limited*
+- *Software Technologies Limited*
 
 
 **Wasilisha: Water Ordering and Delivery App** 🚰
