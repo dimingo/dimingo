@@ -1,7 +1,8 @@
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50" class="mt-6"/> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F73F&width=435&lines=%23+Exploring+the+realms+of+code;+one+commit+at+a+time;%22Welcome+to+my+coding+journey%22" alt="Typing SVG" /></a>
+</div>
 
-
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="90"/> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F73F&width=435&lines=%23+Exploring+the+realms+of+code;+one+commit+at+a+time;%22Welcome+to+my+coding+journey%22" alt="Typing SVG" /></a> 
 
 
 
