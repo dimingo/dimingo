@@ -1,14 +1,114 @@
-## Hi there!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50" class="mt-6"/> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F73F&width=435&lines=%23+Exploring+the+realms+of+code;+one+commit+at+a+time;%22Welcome+to+my+coding+journey%22" alt="Typing SVG" /></a>
+</div>
+
+
 
 
 <p align="center"><img src="https://github.com/dimingo/dimingo/blob/main/animation.gif" width="35%"></p>
 
+<table>
+  <tr>
+    <td>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=dimingo&show_icons=true&theme=transparent" />
+    </td>
+    <td>
+      <p align="center" ><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimingo&theme=transparent&layout=compact" /> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <img class="img" src="https://leetcard.jacoblin.cool/dimingo?font=Dancing_Script" />
+    </td>
+    <td>
+       <img class="img" src="https://streak-stats.demolab.com?user=dimingo&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-<h2><p align="center">  ⚡ Technologies  </p> </h2>
+<!--START_SECTION:waka-->
 
-  <p><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=vue&logoColor=white" />
+```rust
+From: 27 February 2023 - To: 14 September 2023
+
+Total Time: 845 hrs 38 mins
+
+PHP              414 hrs 4 mins  >>>>>>>>>>>>-------------   48.90 %
+Vue.js           166 hrs 38 mins >>>>>--------------------   19.68 %
+Blade Template   161 hrs 9 mins  >>>>>--------------------   19.03 %
+JavaScript       27 hrs 12 mins  >------------------------   03.21 %
+HTML             21 hrs 11 mins  >------------------------   02.50 %
+Bash             8 hrs 14 mins   -------------------------   00.97 %
+CSS              6 hrs 24 mins   -------------------------   00.76 %
+C                6 hrs 6 mins    -------------------------   00.72 %
+JSON             5 hrs 4 mins    -------------------------   00.60 %
+Log              3 hrs 57 mins   -------------------------   00.47 %
+```
+
+<!--END_SECTION:waka-->
+
+# MITCHEL KETCHA
+              Software Engineer
+
+
+[LinkedIn 💼](https://www.linkedin.com/in/mitchel-ketcha) | [Website 🌍](https://portfolio-ketcha-zi8x.vercel.app/) | [Email 📬](mailto:mitchelketcha@gmail.com)
+
+---
+
+## Summary
+As an experienced software engineer 💻, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing ![Python](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
+
+---
+
+## Education
+### Bachelor of Science in Software Development 🎓
+**KCA University** 🏫
+
+
+---
+
+## Work Experience
+
+### Mid Level Software Developer
+_Software Technologies  ltd._ 🏢
+  
+- 👨‍🏫 Led a cross-functional team of developers in the design and implementation of a mission-critical web application, resulting in a 30% increase in user engagement.
+- ⚔️ Collaborated with product managers to define technical requirements and deliverables, ensuring alignment with business goals.
+- 👷‍♂️ Implemented continuous integration and deployment (CI/CD) pipelines, reducing release times by 50%.
+- 👨‍🍼 Mentored junior engineers, fostering skill development and knowledge sharing within
+
+### Projects
+**Contract Lifecycle Management Web App** 📁
+- *Software Technologies Limited*
+
+
+**Wasilisha: Water Ordering and Delivery App** 🚰
+- *MsimboIT* 
+ 
+## Skills  
+![Python](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+
+ <p><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=vue&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+   <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -31,87 +131,6 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> </p>
-  
-
-![Python](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Vue](https://img.shields.io/badge/-Vue-336791?style=flat-square&logo=vue)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-<table>
-  <tr>
-    <td>
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=dimingo&show_icons=true&theme=transparent" />
-    </td>
-    <td>
-      <p align="center" ><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimingo&theme=transparent&layout=compact" /> </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <img class="img" src="https://leetcard.jacoblin.cool/dimingo?font=Dancing_Script" />
-    </td>
-    <td>
-       <img class="img" src="https://streak-stats.demolab.com?user=dimingo&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-# MITCHEL KETCHA
-              Software Engineer
-
-[LinkedIn](https://www.linkedin.com/in/mitchel-ketcha) | [GitHub](https://github.com/dimingo) | [Email](mitchelketcha@gmail.com) | (254)----
-
----
-
-## Summary
-As an experienced software engineer, I thrive on crafting ingenious and scalable web applications. My skill set spans the entire technology stack, encompassing JavaScript, PHP, and Go. I'm not just a coder; I'm a problem solver with a relentless commitment to delivering software solutions of the highest caliber. In a world where innovation drives success.
-
----
-
-## Education
-### Bachelor of Science in Software Development
-**KCA University**
-*Graduated: December 2022*
-
----
-
-## Work Experience
-
-### Mid Level Software Developer
-**Software Technologies  ltd.**
-*Jan2022 - Present*
-
-- Led a cross-functional team of developers in the design and implementation of a mission-critical web application, resulting in a 30% increase in user engagement.
-- Collaborated with product managers to define technical requirements and deliverables, ensuring alignment with business goals.
-- Implemented continuous integration and deployment (CI/CD) pipelines, reducing release times by 50%.
-- Mentored junior engineers, fostering skill development and knowledge sharing within
-
-### Projects
-**Contract Lifecycle Management Web App**
-*Software Technologies Limited*
-- Orchestrated the development of Mkataba, a Contract Lifecycle Management System, utilizing PHP, Vue.js, Laravel, and REST APIs. 
-- Streamlined contract creation with an efficient Vue.js frontend, resulting in a 75% time reduction. 
-- Ensured data accuracy and integration through the Laravel backend and RESTful APIs.
-- Enhanced efficiency by 30% through advanced features like digital signatures, automated alerts, and reporting. 
-- Successfully deployed Mkataba via CI/CD pipelines for seamless updates and releases.
-
-**Wasilisha: Water Ordering and Delivery App**
-  *MsimboIT* 
-   - Contributed to the Laravel admin backend, streamlining order management and ensuring efficient system administration.
-   - Developed user-friendly mobile and web interfaces using Flutter, ensuring a seamless experience across platforms.
-   - Successfully integrated local M-Pesa payments, simplifying transactions and enhancing user convenience. 
-## Skills  
-**Programming Languages:** JavaScript, PHP, Go
-**Front-End Development:** Vue, HTML, CSS, tailwind, alpine
-**Back-End Development:** Node.js, Express, Django 
-**Database Management:**  MySQL 
-**Version Control:** Git, GitHub, Gitlab
-**Testing and Debugging:** Pest, Php Unit, Enzyme,Postman, Cypress
-**DevOps:** Docker,  
-**Cloud Services:** AWS
 
 
 
