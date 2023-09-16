@@ -4,8 +4,6 @@
 </div>
 
 
-
-
 <p align="center"><img src="https://github.com/dimingo/dimingo/blob/main/animation.gif" width="35%"></p>
 
 <table>
@@ -89,11 +87,25 @@ _Software Technologies  ltd._ 🏢
 ### Projects
 **Contract Lifecycle Management Web App** 📁
 - *Software Technologies Limited*
+  
+
+
+https://github.com/dimingo/dimingo/assets/49375354/96272254-1d55-4ea7-8bac-d4a1f626d817
+
+
+
 
 
 **Wasilisha: Water Ordering and Delivery App** 🚰
+- *MsimboIT*
+- 
+ **Bidleo: Bidding Web App** 🤑
+  *currently working on it*
 - *MsimboIT* 
- 
+
+https://github.com/dimingo/dimingo/assets/49375354/65e6d163-1e18-406f-95a6-d25890216356
+
+
 ## Skills  
 ![Python](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
