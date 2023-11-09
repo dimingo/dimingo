@@ -28,20 +28,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 February 2023 - To: 06 November 2023
+From: 27 February 2023 - To: 07 November 2023
 
-Total Time: 1,059 hrs 10 mins
+Total Time: 1,063 hrs 31 mins
 
-PHP              468 hrs 29 mins >>>>>>>>>>>--------------   44.18 %
-Vue.js           223 hrs 8 mins  >>>>>--------------------   21.04 %
-Blade Template   180 hrs 30 mins >>>>---------------------   17.02 %
-JavaScript       50 hrs 16 mins  >------------------------   04.74 %
-HTML             31 hrs 19 mins  >------------------------   02.95 %
-Go               26 hrs 45 mins  >------------------------   02.52 %
-HTTP Request     11 hrs 52 mins  -------------------------   01.12 %
+PHP              468 hrs 36 mins >>>>>>>>>>>--------------   44.01 %
+Vue.js           226 hrs 35 mins >>>>>--------------------   21.28 %
+Blade Template   180 hrs 30 mins >>>>---------------------   16.95 %
+JavaScript       51 hrs 2 mins   >------------------------   04.79 %
+HTML             31 hrs 19 mins  >------------------------   02.94 %
+Go               26 hrs 45 mins  >------------------------   02.51 %
+HTTP Request     11 hrs 53 mins  -------------------------   01.12 %
 CSS              10 hrs 42 mins  -------------------------   01.01 %
-Bash             10 hrs 28 mins  -------------------------   00.99 %
-C                6 hrs 6 mins    -------------------------   00.58 %
+Bash             10 hrs 29 mins  -------------------------   00.98 %
+C                6 hrs 6 mins    -------------------------   00.57 %
 ```
 
 <!--END_SECTION:waka-->
