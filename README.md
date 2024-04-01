@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 February 2023 - To: 30 March 2024
+From: 27 February 2023 - To: 31 March 2024
 
-Total Time: 1,494 hrs 13 mins
+Total Time: 1,495 hrs 38 mins
 
-PHP              554 hrs 22 mins >>>>>>>>-----------------   31.24 %
-Vue.js           334 hrs 19 mins >>>>>--------------------   18.84 %
-Other            280 hrs 23 mins >>>>---------------------   15.80 %
+PHP              554 hrs 22 mins >>>>>>>>-----------------   31.14 %
+Vue.js           334 hrs 19 mins >>>>>--------------------   18.78 %
+Other            284 hrs 48 mins >>>>---------------------   16.00 %
 ```
 
 <!--END_SECTION:waka-->
